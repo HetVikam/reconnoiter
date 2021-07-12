@@ -1,9 +1,9 @@
 #!/bin/bash
 
 domain=$1
-wordlist="/home/hetvikam/tools/SecLists/Discovery/DNS/dns-Jhaddix.txt" 
-resolvers="/root/resolvers.txt"
-resolve_domain="/root/tools/massdns/bin/massdns -r /root/50resolvers.txt -t A -o S-W"
+wordlist="/path-to/SecLists/Discovery/DNS/dns-Jhaddix.txt" 
+resolvers="/path-to/resolvers.txt"
+resolve_domain="/path-to/massdns/bin/massdns -r /path-to/50resolvers.txt -t A -o S-W"
 
 domain_enum(){
 
