@@ -1,6 +1,6 @@
 # reconnoiter
 
-Recon Script to Automate Basic reconnaissance of a target
+Recon Script to Automate Basic reconnaissance of the target
 
 # Usage
 
